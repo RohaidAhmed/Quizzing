@@ -4,6 +4,10 @@ The project lets you select dificulty level and number of questions you want to 
 You fail the test under 50% and ace it over 80%.
 
 ## Instruction
+Download or clone the repository to your PC by running:
+```bash 
+git clone https://github.com/RohaidAhmed/Quizzing.git
+```
 ### Using bat file (Windows OS).
 Find `quiz.bat` file in the project directory and run it.
 ### Using bash (Linux OS)
